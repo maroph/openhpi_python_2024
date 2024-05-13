@@ -1,0 +1,14 @@
+.* export-ignore
+#
+* text=auto
+#
+build.bash text eol=lf
+#
+*.md text
+*.py text
+*.yml text
+#
+*.ico binary
+*.jpg binary
+*.pdf binary
+*.png binary
