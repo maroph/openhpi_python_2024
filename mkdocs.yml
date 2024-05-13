@@ -58,6 +58,17 @@ theme:
 
 nav:
     - Home: index.md
+    - Python:
+        - python.md
+        - Python Links: python/links.md
+        - Dictionary: python/dictionary.md
+        - Listen: python/listen.md
+        - Tuple: python/tuple.md
+    - Info:
+        - info.md
+        - Über: info/about.md
+        - Lizenz: info/license.md
+        - GDPR/DSGVO: info/gdpr.md
 
 docs_dir: docs
 site_dir: site
