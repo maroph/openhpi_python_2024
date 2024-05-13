@@ -13,7 +13,7 @@ die CodeOcean Testumgebung mit der Lösung zufrieden ist.
 __Für die Ausführung des Codes habe ich Python 3.11
 verwendet.__
 Die verwendete Python Version kann man mit dem Programm
-[version.py](https://raw.githubusercontent.com/maroph/openhpi_python_2023/main/sources/version.py)
+[version.py](https://raw.githubusercontent.com/maroph/openhpi_python_2024/main/sources/version.py)
 ausgeben.
 
 ---

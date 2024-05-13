@@ -1,13 +1,13 @@
 # Über diese Site
-Vom 6. September 2023 bis 3. Oktober 2023 lief der
+Vom 2. Oktober 2024 bis 29. Oktober 2024 läuft der
 [openHPI](https://open.hpi.de/) Kurs
-[Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2023-1).
+[Python – schnell und intensiv Programmieren lernen](https://open.hpi.de/courses/python2024).
 
 Auf dieser Site habe ich meine Beispiellösungen zu den
 Aufgaben abgelegt.
 
 Die Lösungen sind im Verzeichnis 
-[sources](https://github.com/maroph/openhpi_python_2023/tree/main/sources)
+[sources](https://github.com/maroph/openhpi_python_2024/tree/main/sources)
 abgelegt. Alle Lösungen sind lokal (also ohne die 
 openHPI CodeOcean Umgebung) ablauffähig.
 
@@ -20,7 +20,7 @@ auf einem Windows 10 und einem Debian 12.1 System
 getestet.__  
 
 Die verwendete Python Version kann man mit dem Programm 
-[version.py](https://raw.githubusercontent.com/maroph/openhpi_python_2023/main/sources/version.py) 
+[version.py](https://raw.githubusercontent.com/maroph/openhpi_python_2024/main/sources/version.py) 
 ausgeben.
 
 ```
@@ -36,13 +36,13 @@ serial       : 0
 ```
 
 ```
-Windows 10:
+Windows 11:
 > python.exe version.py
-3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (AMD64)]
-sys.version_info(major=3, minor=11, micro=4, releaselevel='final', serial=0)
+3.11.7 (tags/v3.11.7:fa7a6f2, Dec  4 2023, 19:24:49) [MSC v.1937 64 bit (AMD64)]
+sys.version_info(major=3, minor=11, micro=7, releaselevel='final', serial=0)
 major        : 3
 minor        : 11
-micro        : 4
+micro        : 7
 releaselevel : final
 serial       : 0
 ```
@@ -50,7 +50,7 @@ serial       : 0
 ## Struktur der Site
 Der gesamte Inhalt dieser Site (HTML und Python Source
 Code) ist abgelegt in meinem GitHub Repository
-[maroph/openhpi_python_2023](https://github.com/maroph/openhpi_python_2023/):
+[maroph/openhpi_python_2024](https://github.com/maroph/openhpi_python_2024/):
 
 * docs
   Markdown Sourcen dieser Site
